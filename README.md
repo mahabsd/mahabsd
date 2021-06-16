@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahabsd
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning angular and nodejs 
-- 💞️ I’m looking to collaborate on web projectq
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ? this is my email : mahabsd@gmail.com
 
 <!---
